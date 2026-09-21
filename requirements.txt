@@ -1,0 +1,2 @@
+# Optional: nicer natural sorting (the app falls back to a built-in sorter without it)
+natsort
