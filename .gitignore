@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets - never commit
+.env
+token.pickle
+client_secret.json
+
+# Local tools and generated media
+piper/
+*.onnx
+*.onnx.json
+work/
+output/
+Output/
+*.mp3
+*.wav
+*.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
